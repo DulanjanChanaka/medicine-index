@@ -1,0 +1,74 @@
+body {
+	font-family: sans-serif;
+    background-image: url(./drugphoto.jpg);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover;
+    height: 100vh;
+	
+}
+
+.container {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     /* Replace "path/to/your/image.jpg" with the actual path to your background image */
+
+ 
+   
+}
+
+.btn-add {
+    margin-top: 20px;
+    padding: 15px 40px;
+    font-size: 17px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(111, 162, 234);
+    border-radius: 10px;
+}
+.btn-add a {
+    text-decoration: none;
+    color: white;
+}
+.container input {
+    padding: 10px 50px;
+}
+
+.container {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+.card {
+    background-color: rgb(203, 232, 244);
+    padding: 5px 20px;
+    border-radius: 10px;
+
+    
+    
+    
+    
+}
+.card p {
+    
+    
+text-align: center;
+font-weight: 500;
+}
+
+.bn {
+    background-color: rgb(178, 178, 236);
+   
+}
+.pn {
+    background-color: rgb(168, 168, 239);
+}
+
+
+
