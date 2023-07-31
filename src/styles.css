@@ -5,6 +5,7 @@ body {
 	overflow: hidden;
 	background-size: cover;
     height: 100vh;
+    
 	
 }
 
@@ -15,10 +16,15 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
      /* Replace "path/to/your/image.jpg" with the actual path to your background image */
 
  
    
+}
+.card-new {
+    max-height: 400px; /* Adjust the height to your preference */
+    overflow-y: auto;
 }
 
 .btn-add {
